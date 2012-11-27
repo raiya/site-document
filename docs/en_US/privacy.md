@@ -1,13 +1,13 @@
 # Yuehu Privacy Policy
 
-Yuehu may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site.
+This policy file will update periodically. Every significant changes about user information treating policy will send to you via email. We will place a prominent notification on our site, too.
 
 
 ## Email
 
-We guarantee the security of your email address on the condition that you have kept the security.
+We guarantee your email security on the condition that you have kept the security rules.
 
-We collect the email address for the use of communication, including but not limited to signup, recovery password, invitatation, inquirement.
+We record the email address for communication, including but not only for signing up, getting back user password, sending invitatation, and collecting feedback.
 
 
 ## Password
@@ -15,12 +15,12 @@ We collect the email address for the use of communication, including but not lim
 Your password is safe with us, we warrant that:
 
 - your password is stored as a hash value, not plain text
-- your password is deliveried on security connection (SSL connection)
+- your password is deliveried via security connection (SSL connection)
 
 ## Cookies
 
-We use cookie to record the current session information. We do not use permanent cookies, you are required to re-login to your Yuehu account after a certain period of time has passed.
+We use cookies to record the current session. Permanent cookies will not be used. You are required to re-login after a certain time.
 
 ## Data Storage
 
-You must understand Yuehu uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the service.
+You must know that Yuehu uses third-part hosting provider to support the need of hardware, software, networking, data storage, and related technique.
