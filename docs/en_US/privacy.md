@@ -5,14 +5,14 @@ Yuehu may periodically update this policy. We will notify you about significant 
 
 ## Email
 
-We guarantee the security of your email address on the condition that you have keept the security.
+We guarantee the security of your email address on the condition that you have kept the security.
 
 We collect the email address for the use of communication, including but not limited to signup, recovery password, invitatation, inquirement.
 
 
 ## Password
 
-You password is safe with us, we warrant:
+Your password is safe with us, we warrant that:
 
 - your password is stored as a hash value, not plain text
 - your password is deliveried on security connection (SSL connection)
