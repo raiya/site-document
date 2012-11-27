@@ -23,7 +23,7 @@ Violation of any of the terms below will result in the termination of your accou
 
 1. We claim no intellectual property rights over the material you provide to the Service. Include but not limited to your profile, quote and reviews. However, by setting your pages to be viewed publicly, you agree to allow others to view your Content.
 2. Any content from other sites including the content of an article remains the copyright to the content owner. Any use of the content without auhorization of the content owner should be regarded as a personal behavior.
-3. Any content owner can ask Yuehu to remove their articles, Yuehu don't take responsibility for the lost of content for any user of Yuehu.
+3. Any content owner can ask Yuehu to remove their articles, Yuehu don't take responsibility for the loss of content for any user of Yuehu.
 
 
 ## General Conditions
@@ -33,7 +33,7 @@ Violation of any of the terms below will result in the termination of your accou
 4. You must not abuse or hack the service provided by Yuhue.
 3. Yuehu does not warrant that
 
-    - the service will meet your specific requirements
-    - the service will be uninterrupted, timely, secure, or error-free
-    - the results that may be obtained from the use of the service will be accurate or reliable
-    - any errors in the Service will be corrected.
+   - the service will meet your specific requirements
+   - the service will be uninterrupted, timely, secure, or error-free
+   - the results that may be obtained from the use of the service will be accurate or reliable
+   - any errors in the Service will be corrected.
